@@ -20,8 +20,9 @@ author: Some Person
 ###############################################
 
 navbar-links:
+  Home: "https://zikuny.github.io/"
   About Me: "aboutme"
-  Something: "ss"
+  Research: ""
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
