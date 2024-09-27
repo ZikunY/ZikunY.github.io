@@ -23,11 +23,17 @@ description: Ph.D. in Statistics
 navbar-links:
   Home: "https://zikuny.github.io/"
   About Me: "aboutme"
-  Research: ""
+  Research:
+    - Overview: "Research"
+    - Publications: "publications"
+    - Projects: "Projects"
+  Education:
+    - Teaching: "Teaching"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - CARMA: "Robust fine-mapping"
+    - CARMA-X: "Fine-mapping in admixed population"
+    - PO-EN: "Semi-superivsed learning"
+
 
 ################
 # --- Logo --- #
@@ -44,6 +50,8 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
+author:
+  name: Zikun Yang
 
 #####################################
 # --- Footer social media links --- #
@@ -53,10 +61,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
+  email: "zy2412@columbia.edu"
+ # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+  github: ZikunY
   twitter: daattali
   patreon: DeanAttali
   youtube: "@daattali"
