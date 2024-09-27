@@ -10,9 +10,9 @@ order: 1
 [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics)  
 [Colorado State University](https://www.columbia.edu)   
 722 West 168th Street<br/>
-New York<bf/>
+New York<br/>
 NY 10032
    
-**Email:** zy2412[at]columbia.edu
+**Email:** zy2412@columbia.edu
 
 I am actively looking for a faculty or research scientist position!
