@@ -3,16 +3,20 @@ layout: page
 title: About me
 
 ---
-<img align="right" src="/img/IMG_0010.jpg" alt="" width="300">
+<img align="right" src="/img/IMG_0010.jpg" alt="" width="400">
 
 My name is Zikun Yang. 
 
 ### Work Experience
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+   - 2019 - Now, Postdoctoral Research Scientist, _Department of Biostatistics, Columbia University_
+          
+   - 2022 - 2024, Postdoctoral Research Scientist, _Department of Neurology, Columbia University_
+   
+   - 2013 - 2019, Teaching/Resaerch assistant, _Department of Statistics, Indiana University_         
 
-### My story
+### Education
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+   - _Ph.D. (2013-2019)_, Department of Statistics, Indiana University
+    - Advisors: Dr. _Andrew Womack_
+    - Dissertation: GAUSSIAN REGRESSION MODEL SELECTION IN HIGH DIMENSION
