@@ -5,6 +5,8 @@ subtitle: Postdoctoral Research Scientist, Department of Biostatistics, Columbia
 use-site-title: true
 order: 1
 ---
+<img align="left" src="/img/IMG_2854.jpg" alt="" width="300">
+
 
 ### Contact:
 [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics)  

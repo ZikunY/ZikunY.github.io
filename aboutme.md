@@ -1,11 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
+<img align="right" src="/img/IMG_0010.jpg" alt="" width="300">
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Zikun Yang. 
 
+### Work Experience
 - I rock a great mustache
 - I'm extremely loyal to my family
 
