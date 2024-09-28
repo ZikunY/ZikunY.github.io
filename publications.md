@@ -21,9 +21,8 @@ title: Publications
   **_Bioinformatics_**, 37, 1953-1962.  
 
 - **Yang, Z.** (2019)  
-  Gaussian Regression Model Selection in High Dimension,  
-  **_Indiana University_**  
-  [ProQuest Dissertation Link](https://www.proquest.com/dissertations-theses/gaussian-regression-model-selection-high/docview/2305475052/se-2?accountid=10226).  
+  [Gaussian Regression Model Selection in High Dimension](https://www.proquest.com/dissertations-theses/gaussian-regression-model-selection-high/docview/2305475052/se-2?accountid=10226),  
+  **_Indiana University_**. 
 
 - Carter, R., **Yang, Z.**, Hocagil, T., Jacobson, S., Jacobson, J., Dodge, N., Meintjes, E., Zikil, C., Tosto, G. (2024)  
   [Genetic admixture predictors of fetal alcohol spectrum disorders (FASD) in the South African Cape Coloured population](https://doi.org/10.1016/j.gene.2024.148854),  
@@ -42,37 +41,34 @@ title: Publications
   **_Journal of Investigative Dermatology_**, 5, S99.
 
 ### Manuscripts
-
 - **Yang, Z.**, Wang, C., Vardarajan, B., Mayeux, R., Ionita-Laza, I. (2024)  
-  Fine-mapping in admixed populations using CARMA-X, with applications to Latin American studies,  
+  [“Fine-mapping in admixed populations using CARMA-X, with applications to Latin American studies”],  
   _In preparation_.  
 
 - **Yang, Z.**, Wang, C., Ionita-Laza, I. (2024)  
-  MCARMA: Precision Fine-Mapping Across Multi-Ancestry and Multi-Trait Studies,  
+  [“MCARMA: Precision Fine-Mapping Across Multi-Ancestry and Multi-Trait Studies”],  
   _In preparation_.  
 
-- **Yang, Z.**, Cieza, B., Reyes-Dumeyer, D., Teich, A., Lee, A., Ma, Y., Yilmaz, E., et al., Mayeux, R., & Tosto, G. (2024)
-  MU-BRAIN: MUltiethnic Brain Rna-seq for Alzheimer INitiative,  
-  _In review at BRAIN: A journal of Neurology_, [https://doi.org/10.1101/2024.02.20.581250](https://doi.org/10.1101/2024.02.20.581250).  
+- **Yang, Z.**, Cieza, B., Reyes-Dumeyer, D., Teich, A., Lee, A., et al., Mayeux, R., & Tosto, G. (2024)  
+  [“MU-BRAIN: MUltiethnic Brain Rna-seq for Alzheimer INitiative”](https://doi.org/10.1101/2024.02.20.581250),  
+  _In review at BRAIN: A journal of Neurology_.  
 
 - **Yang, Z.**, Human, B., Reyes-Dumeyer, D., Montesinos, R., Huilca, J., Oré-Gómez, M., et al., Tosto, G. (2024)  
-  Protective effect of Native American ancestry in Peruvian populations,  
+  [“Protective effect of Native American ancestry in Peruvian populations”],  
   _In preparation_.  
 
 - **Yang, Z.**, Womack, A. (2020)  
-  Heavy tailed horseshoe priors,  
-  _arXiv_, [https://doi.org/10.48550/arXiv.1903.00928](https://doi.org/10.48550/arXiv.1903.00928).  
+  [“Heavy tailed horseshoe priors”](https://doi.org/10.48550/arXiv.1903.00928),  
+  _arXiv_.  
 
 - **Yang, Z.**, Womack, A. (2019)  
-  Revisiting High Dimensional Bayesian Model Selection for Gaussian Regression,  
-  _arXiv_, [https://doi.org/10.48550/arXiv.1905.06224](https://doi.org/10.48550/arXiv.1905.06224).  
+  [“Revisiting High Dimensional Bayesian Model Selection for Gaussian Regression”](https://doi.org/10.48550/arXiv.1905.06224),  
+  _arXiv_.  
 
 - Human, B., **Yang, Z.**, Reyes-Dumeyer, D., Lee, A., Dugger, B., et al., Tosto, G. (2024)  
-  Polytranscriptomic risk score for Alzheimer Disease in a large diverse multi-center brain bank study,  
+  [“Polytranscriptomic risk score for Alzheimer Disease in a large diverse multi-center brain bank study”],  
   _In preparation_.  
 
 - Barral, S., Phillips, N., Barber, R., O'Bryant, S., **Yang, Z.**, et al., Tosto, G. (2024)  
-  Differences in genetic ancestry explain variation in APOE risk of Alzheimer’s disease among 12,221  
-  Caribbean-Hispanic, Mexican, Mexican-American, Peruvian, and Bolivian individuals,  
+  [“Differences in genetic ancestry explain variation in APOE risk of Alzheimer’s disease among 12,221 Caribbean-Hispanic, Mexican, Mexican-American, Peruvian, and Bolivian individuals”],  
   _In preparation_.
-
