@@ -275,7 +275,7 @@ img {
 
 .navbar-custom .nav-item.dropdown .dropdown-menu {
   margin-top: 0;
-  font-size: 0.8em;
+  font-size: 1em;
   border: 0;
   padding: 0;
   {% if site.navbar-var-length %}
@@ -289,6 +289,7 @@ img {
 
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   padding: 0.625rem;
+  font-size: 0.8em;
   background-color: var(--navbar-col);
   text-decoration: none !important;
   font-weight: normal;
