@@ -4,12 +4,12 @@ title: About me
 
 ---
 <div align="center">
-<img align="center" src="/img/IMG_0010.jpg" alt="" width="400">
+<img align="center" src="/img/IMG_0010.jpg" alt="" width="700">
 </div>
 
-My name is Zikun Yang. The figure on the right is Central Park. 
+My name is Zikun Yang.  
 
-### Work Experience
+## Work Experience
 
    - 2019 - Now, Postdoctoral Research Scientist, _Department of Biostatistics, Columbia University_  
           
@@ -17,7 +17,7 @@ My name is Zikun Yang. The figure on the right is Central Park.
    
    - 2013 - 2019, Teaching/Resaerch assistant, _Department of Statistics, Indiana University_           
 
-### Education
+## Education
 
    - _Ph.D. (2013-2019)_, Department of Statistics, Indiana University  
       - Advisors: Dr. _Andrew Womack_  
