@@ -44,19 +44,19 @@ title: Publications
 
 
 - **Yang, Z.**, Wang, C., Vardarajan, B., Mayeux, R., Ionita-Laza, I. (2024)  
-  [“Fine-mapping in admixed populations using CARMA-X, with applications to Latin American studies”],  
+  “Fine-mapping in admixed populations using CARMA-X, with applications to Latin American studies”,  
   _In preparation_.  
 
 - **Yang, Z.**, Wang, C., Ionita-Laza, I. (2024)  
-  [“MCARMA: Precision Fine-Mapping Across Multi-Ancestry and Multi-Trait Studies”],  
+  “MCARMA: Precision Fine-Mapping Across Multi-Ancestry and Multi-Trait Studies”,  
   _In preparation_.  
 
 - **Yang, Z.**, Cieza, B., Reyes-Dumeyer, D., Teich, A., Lee, A., et al., Mayeux, R., & Tosto, G. (2024)  
-  [“MU-BRAIN: MUltiethnic Brain Rna-seq for Alzheimer INitiative”](https://doi.org/10.1101/2024.02.20.581250),  
+  “MU-BRAIN: MUltiethnic Brain Rna-seq for Alzheimer INitiative”](https://doi.org/10.1101/2024.02.20.581250),  
   _In review at BRAIN: A journal of Neurology_.  
 
 - **Yang, Z.**, Human, B., Reyes-Dumeyer, D., Montesinos, R., Huilca, J., Oré-Gómez, M., et al., Tosto, G. (2024)  
-  [“Protective effect of Native American ancestry in Peruvian populations”],  
+  “Protective effect of Native American ancestry in Peruvian populations”,  
   _In preparation_.  
 
 - **Yang, Z.**, Womack, A. (2020)  
@@ -68,9 +68,9 @@ title: Publications
   _arXiv_.  
 
 - Human, B., **Yang, Z.**, Reyes-Dumeyer, D., Lee, A., Dugger, B., et al., Tosto, G. (2024)  
-  [“Polytranscriptomic risk score for Alzheimer Disease in a large diverse multi-center brain bank study”],  
+  “Polytranscriptomic risk score for Alzheimer Disease in a large diverse multi-center brain bank study”,  
   _In preparation_.  
 
 - Barral, S., Phillips, N., Barber, R., O'Bryant, S., **Yang, Z.**, et al., Tosto, G. (2024)  
-  [“Differences in genetic ancestry explain variation in APOE risk of Alzheimer’s disease among 12,221 Caribbean-Hispanic, Mexican, Mexican-American, Peruvian, and Bolivian individuals”],  
+  “Differences in genetic ancestry explain variation in APOE risk of Alzheimer’s disease among 12,221 Caribbean-Hispanic, Mexican, Mexican-American, Peruvian, and Bolivian individuals”,  
   _In preparation_.
