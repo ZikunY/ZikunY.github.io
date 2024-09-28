@@ -7,7 +7,7 @@ order: 1
 ---
 <img align="left" src="/img/IMG_2854.jpg" alt="Profile picture" width="400" style="margin-right: 100px; margin-bottom: 20px;">
 
-
+<div style="overflow: auto;">
 ### Contact:
 [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics)  
 [Columbia University](https://www.columbia.edu)   
@@ -18,3 +18,4 @@ NY 10032
 **Email:** zy2412@columbia.edu
 
 I am actively looking for a faculty or research scientist position! The pic on the left is Man
+</div>
