@@ -3,9 +3,9 @@ layout: page
 title: About me
 
 ---
-<img align="right" src="/img/IMG_0010.jpg" alt="" width="400">
+<img align="right" src="/img/IMG_0010.jpg" alt="" width="400" style="margin-left: 100px; margin-bottom: 20px;>
 
-My name is Zikun Yang. 
+My name is Zikun Yang. The figure on the right is Central Park. 
 
 ### Work Experience
 
@@ -18,5 +18,6 @@ My name is Zikun Yang.
 ### Education
 
    - _Ph.D. (2013-2019)_, Department of Statistics, Indiana University
-    - Advisors: Dr. _Andrew Womack_
-    - Dissertation: GAUSSIAN REGRESSION MODEL SELECTION IN HIGH DIMENSION
+      - Advisors: Dr. _Andrew Womack_
+      - Dissertation: GAUSSIAN REGRESSION MODEL SELECTION IN HIGH DIMENSION
+   - _B.S. (2003-2007)_, Beijing University of Technology
