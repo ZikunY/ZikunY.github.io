@@ -279,10 +279,10 @@ img {
   border: 0;
   padding: 0;
   {% if site.navbar-var-length %}
-  min-width: 100%;
+  min-width: 200px;
   {% else %}
   min-width: 0;
-  width: 100%;
+  width: auto;
   word-break: break-word;
   {% endif %}
 }

@@ -26,14 +26,16 @@ navbar-links:
   Research:
     - Overview: "research"
     - Publications: "publications"
-    - Projects: "projects"
   Education:
-    - Teaching: "Teaching"
+    - Teaching: "teaching"
   Resources:
-    - CARMA: "Robust fine-mapping"
-    - CARMA-X: "Fine-mapping in admixed population"
-    - PO-EN: "Semi-superivsed learning"
+    - R: "rpackages"
+    
+# This is an example for adjusting the dropdown width
 
+.navbar .dropdown-menu {
+    min-width: 200px;  #/* Increase the width as needed */
+}
 
 ################
 # --- Logo --- #
