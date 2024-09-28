@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-**[My Google Scholar](https://scholar.google.com/citations?user=RfZql4EAAAAJ&hl=en&oi=sra) **
+**[My Google Scholar](https://scholar.google.com/citations?user=RfZql4EAAAAJ&hl=en&oi=sra)**
 
 
 ### Publications
