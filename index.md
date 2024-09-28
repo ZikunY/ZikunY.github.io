@@ -5,7 +5,7 @@ subtitle: Postdoctoral Research Scientist, Department of Biostatistics, Columbia
 use-site-title: true
 order: 1
 ---
-<img align="left" src="/img/IMG_2854.jpg" alt="Profile picture" width="400" style="margin-right: 20px; margin-bottom: 20px;">
+<img align="left" src="/img/IMG_2854.jpg" alt="Profile picture" width="400" style="margin-right: 100px; margin-bottom: 20px;">
 
 
 ### Contact:
@@ -17,4 +17,4 @@ NY 10032
    
 **Email:** zy2412@columbia.edu
 
-I am actively looking for a faculty or research scientist position!
+I am actively looking for a faculty or research scientist position! The pic on the left is Man
