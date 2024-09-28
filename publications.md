@@ -52,7 +52,7 @@ title: Publications
   _In preparation_.  
 
 - **Yang, Z.**, Cieza, B., Reyes-Dumeyer, D., Teich, A., Lee, A., et al., Mayeux, R., & Tosto, G. (2024)  
-  “MU-BRAIN: MUltiethnic Brain Rna-seq for Alzheimer INitiative”](https://doi.org/10.1101/2024.02.20.581250),  
+  [“MU-BRAIN: MUltiethnic Brain Rna-seq for Alzheimer INitiative”](https://doi.org/10.1101/2024.02.20.581250),  
   _In review at BRAIN: A journal of Neurology_.  
 
 - **Yang, Z.**, Human, B., Reyes-Dumeyer, D., Montesinos, R., Huilca, J., Oré-Gómez, M., et al., Tosto, G. (2024)  
