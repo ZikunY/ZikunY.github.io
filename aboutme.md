@@ -7,7 +7,6 @@ title: About me
 <img align="center" src="/img/IMG_0010.jpg" alt="" width="700">
 </div>
 
-My name is Zikun Yang.  
 
 ## Work Experience
 

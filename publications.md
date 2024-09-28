@@ -10,7 +10,7 @@ title: Publications
 
 
 - **Yang, Z.**, Human, B., Reyes-Dumeyer, D., Montesinos, R., Soto-Añari, M., Custodio, N., Tosto, G. (2024)  
-  [A benchmark study on current GWAS models in admixed populations](https://doi.org/10.1093/bib/bbad437), 
+  [A benchmark study on current GWAS models in admixed populations](https://doi.org/10.1093/bib/bbad437),   
   **_Briefings in Bioinformatics_** 25, Issue 1.  
 
 - **Yang, Z.**, Wang, C., Liu, L., Khan, A., Lee, A., Vardarajan, B., Mayeux, R., Kiryluk, K., & Ionita-Laza, I. (2023)  
