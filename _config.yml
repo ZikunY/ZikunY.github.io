@@ -24,9 +24,9 @@ navbar-links:
   Home: "https://zikuny.github.io/"
   About Me: "aboutme"
   Research:
-    - Overview: "Research"
+    - Overview: "research"
     - Publications: "publications"
-    - Projects: "Projects"
+    - Projects: "projects"
   Education:
     - Teaching: "Teaching"
   Resources:
