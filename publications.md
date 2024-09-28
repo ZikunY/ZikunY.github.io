@@ -41,6 +41,8 @@ title: Publications
   **_Journal of Investigative Dermatology_**, 5, S99.
 
 ### Manuscripts
+
+
 - **Yang, Z.**, Wang, C., Vardarajan, B., Mayeux, R., Ionita-Laza, I. (2024)  
   [“Fine-mapping in admixed populations using CARMA-X, with applications to Latin American studies”],  
   _In preparation_.  
